@@ -1,0 +1,1 @@
+mklink /J C:\dev\bgs\apache\htdocs C:\git\bgs\src
