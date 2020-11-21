@@ -1,0 +1,3 @@
+function awesomeFunction() {
+    alert('Uwaga');
+};

@@ -1,0 +1,16 @@
+input {
+    color: dodgerblue;
+}
+
+div > input {
+    color: red;
+}
+
+/* .awesomeRebecca {
+    color: rebeccapurple;
+}
+
+#superInput {
+    color: greenyellow;
+} */
+
