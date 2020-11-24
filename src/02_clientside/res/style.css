@@ -111,7 +111,7 @@
     min-width: 700px;
 }
 
-body {
+.body-style {
     background: linear-gradient(#ef8181, #7dcaf4);
     animation: gradient 15s ease infinite;
     height: 100vh;
